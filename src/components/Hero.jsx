@@ -19,7 +19,7 @@ const Hero = () => {
           <Button title="Free Consultation" />
         </div>
         <div>
-          <img src={img} alt="heroImg" />
+          <img className="rounded-md" src={img} alt="heroImg" />
         </div>
       </div>
     </div>
